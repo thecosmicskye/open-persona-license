@@ -1,0 +1,18 @@
+license: Open Persona License v1.0
+license_id: OpenPersona-1.0
+attribution_name: "[Attribution Name]"
+
+subjects:
+  - name: "[Subject name]"
+    type: "[person | character | animal | creature | avatar | mascot | group | other]"
+    approved_names:
+      - "[Approved public name]"
+
+official_source_locations:
+  - "[Official source URL]"
+
+official_notice_channels:
+  - "[Official notice URL or email]"
+
+covered_material:
+  - "[Path, URL, folder, release, or file pattern]"
